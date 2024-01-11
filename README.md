@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RodriigoAleixo
-- 👀 I’m interested in  Html, Java Script, CSS, Python, Git e GitHub
-- 🌱 I’m currently learning  Git, GitHub,Html,CSS, Python
+- 👀 I’m interested in  Redes, Python, Git e GitHub
+- 🌱 I’m currently learning  Git, GitHub, Python, Redes
 - 💞️ I’m looking to collaborate on  python
 - 📫 How to reach me rodriigoaleixo@gmail.com
 
