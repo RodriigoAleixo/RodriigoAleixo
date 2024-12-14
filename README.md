@@ -5,9 +5,6 @@ IESB
 Análise e Desenvolvimento de Sistemas
 2023 - 2025
 
-Línguas:
-Portuês
-
 Habilidades / Cursos
 * Excel (intermediário);
 * Python;
